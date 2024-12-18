@@ -5,6 +5,8 @@
 # Ignore the Temp folder inside game/game
 game/game/Temp/
 game/Temp/
+game/Library/
+game/Logs/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
